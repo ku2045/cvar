@@ -9,7 +9,7 @@ from objloader import *
 # Minimum number of matches that have to be found
 # to consider the recognition valid
 MIN_MATCHES = 10
-DEFAULT_COLOR = (0, 0, 0)
+DEFAULT_COLOR = (54, 69, 79)
 
 
 def main():
